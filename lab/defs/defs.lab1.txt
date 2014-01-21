@@ -1,0 +1,15 @@
+Definisjonene i Lab 1.
+
+mkdir - Kommandoen som brukes for å lage en ny mappe.
+cd - Kommandoen som brukes for å skifte mappe.
+ls - Kommandoen som brukes for å liste filene som ligger i valgt mappe.
+ls -l - Lists the total files in the directory and subdirectories, 
+      the names of the files in the current directory, their permissions,
+      the number of subdirectories in directories listed, the size of the file,
+      and the date of last modification.
+ls -la - 
+pwd - Kommandoen som brukes for å få opplyst hvilken mappe du forholder deg i.
+grep - Grep er et lite program for søking i tekst. 
+       Programmet er en viktig kommando på nær sagt alle operativsystemer basert på Unix/Linux.
+cat - Kommandoen som kan brukes for å lage enkelte filer.
+less - Kommandoen som brukes for å se innholdet (men ikke endre) i en tekst fil, en skjerm av gangen.
