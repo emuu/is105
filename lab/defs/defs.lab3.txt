@@ -1,0 +1,27 @@
+Begreper og Definisjoner til lab3.
+
+Et regulært uttykk (regular expression)
+- Et regulert uttrykk er en spesiell sekvens av bokstaver
+som hjelper deg å finne lignende og andre set av strenger,
+ved hjelp av spesialisert syntaks holdt i et mønster
+
+Import
+- Import kommandoen er den vanligste måten å påkalle import maskiner, 
+men det er ikke den eneste måten. Import uttalelsen kompinerer to operasjoner;
+*den søker for navngitt modul* deretter *binder den resultatet av søket til et navn i
+det lokale omfanget*.
+
+"Skript"-språk
+- Et skript-språk er et programmerings språk som støtter skripter, program som
+er skrevet for et spesiellt miljø som kan tolke og automatisere utførelsen av oppgaver
+som automatisk kan bli utført en og en av en mennesklig opperatør.
+
+Perl
+- Perl er et programmeringsspråk som låner mye av funksjonaliteten fra f.eks C, unix, awk,
+sed, Lisp og mange andre programmeringsspråk. Perl ble laget for å være et praktisk 
+språk for å hente ut informasjonen fra tekstfiler, for så å nyttegjøre seg av infoen.
+
+Bash
+- Bash er et Unix skall som er laget for å være gratis software som kan brukes
+istedenfor Bourne shell(sh).Bash er et kommando prosesjons programm, som typisk kjøres i
+et tekst vindu.
