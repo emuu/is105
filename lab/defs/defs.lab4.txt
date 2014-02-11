@@ -1,0 +1,36 @@
+Defs lab 4 
+
+1. Api (Application Programming Interface)
+Betegner et grensesnitt i en programvare slik at spesifikke deler av denne kan kjøres fra en annen programvare
+
+2. IDE (Integrated delvelopment Enviroment)
+Integrert utviklingsmiljø som hjelper utviklere med å skape og debugge kode.
+
+3. ps (Post Script)
+Er et datamskinspråk som regulerer beskrivelsen av en side, og fungere som et bindeledd mellom en datamaskin og utskriftsenheten.
+
+4. top 
+Er en kommando i terminalen osm gir en oversikt over prosessoraktiviteten i datamaskinen. Den lister de mest krevende CPU prosessene og kan manipulere de.
+
+5. df
+Er en kommando som brukes for å vise hvor mye diskplass som er igjen i filsystemene.
+
+6. Kill
+Er en kommando som kan brukes til å avslutte prosesser. Man kan feks bruke den til å avslutte et program som låser seg osv
+
+7. Net stat (network statistics)
+Kommandolinje basert dataprogram som viser inngående og utgående nettverksforbindelser, rutingstabeller og en rekke statistikk tilknyttet nettverksgrensesnittet.
+
+8.ifconfig (Interface Configuration)
+Er en kommando som brukes til å kofigurere, kontrollere TCP/IP network interface fra kommandolinje,
+
+9.who
+Er en kommando som brukes til å finne ut:
+
+- Siste gang systemet ble slått på
+- Liste over brukere som har logget inn
+- Current run lvl etc 
+
+
+
+
