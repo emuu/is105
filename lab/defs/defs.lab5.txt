@@ -1,0 +1,15 @@
+Prosesstilstander i linux = de viktigste prosesstilstandene i linux er Ready, Running og Blocked. 
+
+python <filnavn>.py = Kjører en python fil javac <filnavn>.
+
+java = Kompilerer java fil java <filnavn>.
+
+class = Kjører en java klasse fil 
+
+gcc -o <filnavn>.c = Gnu Compiler Collection, skriver en ny objekt fil utfra c (executable fil) 
+
+sleep 100 & (utført fr kommandolinje) = Setter en process til å sove 
+
+cat /proc/cpuinfo = Utskriver info om cpu processoren 
+
+Multiprogramming = flere programmer kan være aktive på samme prosessor, alt blir satt i kø.
