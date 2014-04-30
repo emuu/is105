@@ -132,7 +132,7 @@ def two_pair(ranks):
           lowpair = kind(2, list(reversed(ranks)))
           if highpair != lowpair:
                     return (highpair,lowpair)
-     else:
+          else:
             return None
 
 # OPPGAVE: Implementer denne funksjonen (brukes i poker funksjonen for å løse uavgjort tilfeller)
