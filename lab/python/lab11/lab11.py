@@ -210,4 +210,4 @@ def test():
      assert hand_rank(fh) == (6,10,7)
      return "Done testing"
 
-     print test()
+print test()
