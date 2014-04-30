@@ -62,7 +62,7 @@ def poker(hands):
                Returnerer en eller flere hender: poker([hand, ...]) => [[hand], ...]
                hand_rank er en funksjon som må skrives og brukes i sammenligningen av "hender"
           """
-return max(hands, key=hand_rank)
+          return max(hands, key=hand_rank)
 
 # OPPGAVE: fullføre denne funksjonene for alle hender i poker og lage tester med assert
 def hand_rank(hand):
