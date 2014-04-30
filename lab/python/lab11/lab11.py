@@ -211,3 +211,4 @@ def test():
      return "Done testing"
 
 print test()
+print poker(deal(3))
