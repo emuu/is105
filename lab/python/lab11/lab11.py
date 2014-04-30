@@ -78,23 +78,23 @@ def hand_rank(hand):
           """
           ranks = card_ranks(hand)
           if straight(ranks) and flush(hand):
-          return (8, max(ranks)) # 2 3 4 5 6 => (8, 6)
+                    return (8, max(ranks)) # 2 3 4 5 6 => (8, 6)
           elif kind(4, ranks): # kan returnere både boolean og tall, i Java 0 er False
-          return (7, kind(4, ranks), kind(1, ranks)) # 9 9 9 9 3 (7, 9, 3)
+                    return (7, kind(4, ranks), kind(1, ranks)) # 9 9 9 9 3 (7, 9, 3)
           elif kind(3, ranks) and kind(2, ranks):
-          return (6, kind(3, ranks), kind(2,ranks))
+                    return (6, kind(3, ranks), kind(2,ranks))
           elif flush(hand):
-          return (5, flush(hand))
+                    return (5, flush(hand))
           elif straight(ranks):
-          return (4, straight(ranks))
+                    return (4, straight(ranks))
           elif kind(3, ranks):
-          return (3, kind(3, ranks), kind(1, ranks), kind(1, ranks))
+                    return (3, kind(3, ranks), kind(1, ranks), kind(1, ranks))
           elif kind (2, ranks):
-          return (2, kind(2, ranks), kind(2, ranks), kind(1, ranks))
+                    return (2, kind(2, ranks), kind(2, ranks), kind(1, ranks))
           elif kind (2, ranks):
-          return (1, kind(2, ranks), kind(1, ranks), kind(1, ranks), kind(1, ranks))
+                    return (1, kind(2, ranks), kind(1, ranks), kind(1, ranks), kind(1, ranks))
           else:
-          return hand
+                    return hand
 
 # Funksjonene card_ranks(hand) returnerer en ORDNET (sorted) tuple av verdier (ranks)
 # Verdier for J, Q, K og A er tilsvarende 11, 12, 13, 14.
